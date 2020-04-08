@@ -1,0 +1,17 @@
+.container{
+    width: 60%;
+}
+.control-one{
+    display: flex;
+    justify-content: space-between;
+    margin: 10px 0px;
+}
+#display{
+    width: 25%;
+}
+#name{
+    margin: 0px 10px;
+}
+.loader-div{
+    display: none;
+}
